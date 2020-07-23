@@ -32,23 +32,23 @@ We are going to run a couple SQL queries and put the answers in the "Query Respo
 
 3. Find the MIN first_name, the county, and a count of all users in that county for counties with more than 10 users. There will be four results. List the last one. 
   * Hint: MIN, COUNT, JOIN, GROUP BY, HAVING
-
+Find the (MIN first_name), (the county), and a (count) of all users in that county for counties with more than 10 users. There will be four results. List the last one.
 
 ## Query Responses
 
 1. Sums
-  * AK:
-  * CT
-  * TX:
-  * WY:
+  * AK: 1422
+  * CT: 999
+  * TX: 7908
+  * WY: 1271
 
 2.
-  * Area code:
+  * Area code: 973
 
 3.
-  * first_name:
-  * county:
-  * county total:
+  * first_name: Alaine
+  * county: Orange
+  * county total: 11
 
 
 ## Summary
